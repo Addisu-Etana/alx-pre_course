@@ -1,1 +1,1 @@
-My first readme
+the secret of getting ahead is getting started
